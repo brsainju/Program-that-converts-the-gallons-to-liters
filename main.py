@@ -21,4 +21,4 @@ def gallons_to_liters(gallons):
     print('That converts to', liters, 'liters.')
 # Call the main fuction.
 main()
-print ('Thank you! ' )
+print('Thank you!')
